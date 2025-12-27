@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+out
+google_font
+noto-sans-kr
+*.zip
+.idea
+noto-sans-kr.zip
+Noto_Sans_KR.zip
