@@ -80,4 +80,6 @@ Repository = "https://github.com/matthewdeanmartin/hangul"
 hangul = "hangul.__main__:main"
 
 [tool.uv]
+
+[tool.uv.pip]
 universal = true
