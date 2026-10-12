@@ -83,3 +83,6 @@ hangul = "hangul.__main__:main"
 
 [tool.uv.pip]
 universal = true
+
+[tool.ruff.lint]
+ignore = ["RUF100"]  # unused noqa differs across Python versions
